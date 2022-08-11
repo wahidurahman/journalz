@@ -1,0 +1,2 @@
+# journalz
+Weekly Newsletter!
