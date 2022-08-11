@@ -1,4 +1,4 @@
-# Welcome to Journalz - Open-Source Newsletter
+# Welcome to Journalz, an Open-Source Newsletter
 
 I wanted to take some time out of my week and reflect on things I found cool! I think sharing and discourse make for a wonderful way of understanding and growing thought processes. This is why I am leaving my newsletter to be completely open to edits and merges. If you have a comment please do attach a Markdown file with what you have to say!
 
