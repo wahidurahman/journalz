@@ -4,7 +4,7 @@ How are you? How have you been...
 
 Please join me for some casual talk on whats happening this week!
 
-### CPI at 8.5% ============================================================================
+### CPI at 8.5% ==============================================================
 
 Wooooo! Inflation has peaked... or has it. Just kidding, it most likely has as we see a huge drop in YoY headline CPI which means we are 
 past what we presume is the worst of this crisis we have been in. I'm glad that we have sort of flatlined in the month to month price 
@@ -26,4 +26,4 @@ less than a percent is a rounding error less so the signaling of another 2008. G
 be aligned with the growth of consumer confidence coming out of all time lows.
 
 
-### ==========================================================================================
+### ========================================================================
